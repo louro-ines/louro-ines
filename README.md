@@ -1,4 +1,4 @@
-### Hello everyone <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
+### Hello everyone <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24">
 
 I'm a Full Stack Developer with a Management background.<br/>My main goal is to keep on learning!
 
